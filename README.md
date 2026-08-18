@@ -4,15 +4,11 @@
 
 A portfolio-safe retail operating system demonstrating checkout, stock health, supplier activity, purchase orders, replenishment alerts, staff visibility, and commercial reporting.
 
-## Product preview
+## Matching interface details
 
-| Retail command | Checkout |
+| Sales and stock controls | Inventory and supplier operations |
 | --- | --- |
-| ![Retail command](screenshots/dashboard.png) | ![Retail checkout](screenshots/checkout.png) |
-| Inventory | Purchase orders |
-| ![Inventory](screenshots/inventory.png) | ![Purchase orders](screenshots/purchase-orders.png) |
-
-![Retail analytics](screenshots/analytics.png)
+| ![Retail interface top](screenshots/interface-top.png) | ![Retail interface bottom](screenshots/interface-bottom.png) |
 
 ```mermaid
 flowchart LR
