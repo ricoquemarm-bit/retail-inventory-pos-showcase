@@ -1,5 +1,7 @@
 # Retail Inventory & POS — Portfolio Showcase
 
+![Exact dashboard shown on Rico Integration](screenshots/portfolio-preview.png)
+
 A portfolio-safe retail operating system demonstrating checkout, stock health, supplier activity, purchase orders, replenishment alerts, staff visibility, and commercial reporting.
 
 ## Product preview
